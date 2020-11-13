@@ -1,0 +1,202 @@
+body{
+  color:#747474;
+  font-family: Karla, Arial, Helvetica, sans-serif;
+}
+.stick{
+  background-color: #005a87;
+  margin: 0;
+  height:40px;
+}
+.stick-p{
+  color: #fff;
+  text-align: center;
+  border:0;
+  margin: 0;
+  padding:10px;
+}
+.menu{
+margin-left:1000px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding:0;
+  overflow: hidden;
+  margin-right: 340px;
+}
+
+li {
+  float: right;
+  padding:10px;
+  margin-bottom: 0;
+  font-size: 13px;
+
+}
+#border1{
+  border:solid 1px #747474;
+  border-radius: 2px;
+  border-top: none;
+}
+.hr2{
+  margin-top: 0;
+}
+.shop{
+  width:120px;
+  height:30px;
+  border-radius: 20px;
+  background-color: #005a87;
+  color:#fff;
+  font-weight: bold;
+  font-size: 15px;
+  border:none;
+
+}
+.logo{
+  margin-left: 140px;
+}
+.search{
+  width:70px;
+}
+.first{
+  height:450px;
+  width:100%;
+}
+.search2{
+  width:600px;
+  margin-left: 450px;
+  margin-top: 50px;
+}
+.featured{
+  font-size: 40px;
+  text-align: center;
+}
+.hrRight{
+  width: 500px;
+  border-color: black;
+  float:right;
+}
+.hrLeft{
+  width: 500px;
+  border-color:black;
+  float:left;
+}
+.featured2{
+  text-align: center;
+}
+.watch1{
+  width:250px;
+  height:300px;
+  margin-left: 90px;
+}
+.watch2{
+  width:250px;
+  height:300px;
+  margin-left: 100px;
+}
+.watch3{
+  width:250px;
+  height:300px;
+  margin-left: 110px;
+}
+.watch4{
+  width:250px;
+  height:300px;
+  margin-left: 120px;
+}
+
+
+
+/*second set*/
+.watches-section{
+  margin-bottom: 70px;
+  margin-top: 70px;
+}
+.watch11{
+  width:200px;
+  height:300px;
+  margin-left: 400px;
+}
+.watch22{
+  width:200px;
+  height:300px;
+}
+.watch33{
+  width:200px;
+  height:300px;
+}
+.watch44{
+  width:200px;
+  height:300px;
+}
+
+/*img title*/
+
+.watches-title1{
+  margin-left: 460px;
+  display: inline-block;
+  font-size: 30px;
+  font-weight: bold;
+  background-color: green;
+
+}
+.watches-title1:hover{
+  background-color: pink;
+  cursor: pointer;
+}
+
+.watches-title2
+{
+  margin-left: 140px;
+  display: inline-block;
+  font-size: 30px;
+  font-weight: bold;
+  background-color: red;
+}
+.watches-title2:hover{
+  background-color: blue;
+  cursor: pointer;
+}
+
+.watches-title3
+{
+  margin-left: 140px;
+  display: inline-block;
+  font-size: 30px;
+  font-weight: bold;
+  background-color: yellow;
+}
+.watches-title3:hover{
+  background-color: black;
+  cursor: pointer;
+}
+.watches-title4
+{
+  margin-left: 140px;
+  display: inline-block;
+  font-size: 30px;
+  font-weight: bold;
+  background-color: orange;
+}
+.watches-title4:hover{
+  background-color: lightgreen;
+  cursor: pointer;
+}
+.g{
+  background-color: grey;
+}
+.watches{
+  margin: 30px;
+  width:100px;
+  height:50px;
+}
+.one{
+  margin-left: 350px;
+}
+footer{
+  background-color: #646464;
+  color: #fff;
+}
+.e{
+  font-family: 'Underdog', cursive;
+
+}
